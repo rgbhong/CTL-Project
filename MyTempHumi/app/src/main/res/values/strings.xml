@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DryBox 온습도</string>
+    <string name="php_address">http://220.120.155.254/engr/dryboxlistjson.php</string>
+</resources>
