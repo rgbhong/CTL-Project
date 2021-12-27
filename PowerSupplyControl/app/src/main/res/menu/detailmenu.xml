@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_ble"
+        android:title="블루투스연결"/>
+
+    <item
+    android:id="@+id/menu_data"
+    android:title="기존데이터"/>
+
+    <item
+        android:id="@+id/menu_event"
+        android:title="알람 HISTORY"/>
+
+</menu>

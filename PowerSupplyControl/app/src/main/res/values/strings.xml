@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Power Supply Control</string>
+    <string name="url_root">http://ctl.synology.me/process/</string>
+    <string name="php_datalist">testlistjson.php</string>
+    <string name="php_alarmlist">ps_event_read.php</string>
+    <string name="table_data">power</string>
+    <string name="table_list">powerSum</string>
+    <string name="table_alarm">pSupply</string>
+    <string name="default_notification_channel_id">Channel ID</string>
+    <string name="default_notification_channel_name">PowerSupplyManger</string>
+</resources>
